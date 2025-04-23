@@ -1,0 +1,147 @@
+.banner1-wrapper {
+  display: contents;
+}
+ 
+.banner1-container1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+ 
+.banner1-max-width {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner1-container2 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner1-title {
+  text-align: center;
+}
+ 
+.banner1-text1 {
+  text-align: center;
+}
+ 
+.home-fragment1 {
+  display: contents;
+}
+ 
+.home-text1 {
+  display: inline-block;
+  letter-spacing: 2px;
+}
+ 
+.home-text2 {
+  color: #c22b1e;
+}
+ 
+.home-text3 {
+  color: #191818;
+}
+ 
+.home-fragment2 {
+  display: contents;
+}
+ 
+.home-text5 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 9px;
+}
+ 
+.home-text6 {
+  color: #dd3724;
+}
+
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: url("public/unsplash-image3-1500w.jpeg");
+  background-repeat: space;
+  background-position: top right;
+}
+ 
+.home-fragment1 {
+  display: contents;
+}
+ 
+.home-text1 {
+  display: inline-block;
+  letter-spacing: 2px;
+}
+ 
+.home-text2 {
+  color: #c22b1e;
+}
+ 
+.home-text3 {
+  color: #191818;
+}
+ 
+.home-fragment2 {
+  display: contents;
+}
+ 
+.home-text5 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 9px;
+}
+ 
+.home-text6 {
+  color: #dd3724;
+}
+ 
+.home-navlink1 {
+  top: 198px;
+  left: 556px;
+  width: 114px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  font-weight: 700;
+  animation-name: fadeInDown;
+  text-transform: capitalize;
+  animation-delay: 0s;
+  text-decoration: none;
+  background-color: transparent;
+  animation-duration: 1s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-navlink2 {
+  top: 274px;
+  left: 583px;
+  width: 83px;
+  height: 41px;
+  display: flex;
+  position: absolute;
+  font-weight: 700;
+  animation-name: fadeInDown;
+  text-transform: capitalize;
+  animation-delay: 0s;
+  text-decoration: none;
+  background-color: transparent;
+  animation-duration: 1s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
