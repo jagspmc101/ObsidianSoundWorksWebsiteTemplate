@@ -71,7 +71,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: flex-start;
-  background-image: url("public/unsplash-image3-1500w.jpeg");
+  background-image: url("HomeBackground.jpeg");
   background-repeat: space;
   background-position: top right;
 }
